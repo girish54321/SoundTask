@@ -7,8 +7,8 @@ https://github.com/girish54321/TechwondoeTask/raw/main/appImage/vidoe.mp4
 
 ## Features
 
-- List Of Company
-- Real Time Data
+- Play Song form URL
+- Notification Control
 
 ## Usage
 
