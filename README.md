@@ -2,9 +2,8 @@
 
 Codling Challenge
 
-<img src="appImage/vidoe.mp4" height="550"/>
 
-appImage/vidoe.mp4
+https://github.com/girish54321/TechwondoeTask/raw/main/appImage/vidoe.mp4
 
 ## Features
 
